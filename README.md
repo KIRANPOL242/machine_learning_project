@@ -5,4 +5,4 @@ Software Installtion and Account requirement for this project
 2. Heroku Account
 3. VS Code IDE
 4. Git Cli
-5. 
+
